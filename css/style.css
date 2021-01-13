@@ -1,0 +1,11 @@
+.spinner-border{
+    /* animation-duration: 0.1s; */
+}
+
+.spinner-grow{
+    animation-delay: 1s;
+}
+
+.list-group-item{
+    cursor: pointer;
+}
